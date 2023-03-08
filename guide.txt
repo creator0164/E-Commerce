@@ -1,0 +1,27 @@
+npm install -g create-react-app
+create-react-app my-app
+cd my-app
+npm start
+
+npm install react-bootstrap
+https://react-bootstrap
+
+------------------------------
+Basic coomand if you have extension in react
+
+rfce = initialize like this
+import React from 'react'
+
+function header() {
+  return (
+    <div>
+      
+    </div>
+  )
+}
+
+export default header
+
+
+npm install react-router-dom
+npm install react-router-dom react-router-bootstrap
